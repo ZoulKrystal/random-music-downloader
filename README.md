@@ -8,5 +8,4 @@ Order: (Bat location) \ (Genre) \ (Artist) \ (.mp3)
 
 Optional Order: (Bat location) \ (Genre) \ (Artist) \ (Year - Album) \ (.mp3)
 
-Usage:
-Easy
+Usage: Just copy the downloadyt-dlp.bat "code" and throw it into a .bat file
